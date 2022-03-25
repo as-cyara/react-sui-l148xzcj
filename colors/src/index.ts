@@ -1,6 +1,6 @@
 export const colors = {
   colors: {
-    text: '#000',
+    text: 'purple',
     background: '#fff',
     primary: '#07c',
     primaryHover: '#0077ccaa',
